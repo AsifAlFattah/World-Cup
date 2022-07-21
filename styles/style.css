@@ -94,8 +94,6 @@ main{
     color: white;
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .header-section{
-    }
     .title-section h1{
         font-size: 3em;
         line-height: 1em;
